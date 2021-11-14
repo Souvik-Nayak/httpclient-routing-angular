@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">Todo App Using Services in Angular</h2>
+    <h2 align="center">Todo App Using HttpClient & Routing in Angular</h2>
 </p>
 
 <div align="center">
