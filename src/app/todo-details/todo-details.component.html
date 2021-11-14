@@ -1,0 +1,13 @@
+<h1>Todo Details</h1>
+<table border="2px" id="work">
+    <tr>
+        <th>Sl. No</th>
+        <th>Tasks</th>
+        <th>Status</th>
+    </tr>
+    <tr *ngFor="let item of todo">
+        <td>{{item.id}}</td>
+        <td>{{item.task}}</td>
+        <td>{{item.status}}</td>
+    </tr>
+</table>

@@ -1,0 +1,36 @@
+h1 {
+	padding-top: 30px;
+	text-align: center;
+	font-size: 25px;
+	color: #d92121;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#work {
+	border-collapse: collapse;
+	width: 34%;
+	text-align: center;
+}
+
+#work td,
+#work th {
+	border: 1px solid #ddd;
+	padding: 4.5px;
+}
+
+#work tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+#work tr:hover {
+	background-color: #ddd;
+}
+
+#work th {
+	background-color: #04aa6d;
+	color: white;
+}
