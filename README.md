@@ -2,8 +2,10 @@
     <h2 align="center">Todo App Using Services in Angular</h2>
 </p>
 
+<div align="center">
+    <img src="./demo.gif" alt="demo" width="60%">
+</div>
 
-<img src="./demo.gif" alt="demo" width="80%">
 
 <br>
 
