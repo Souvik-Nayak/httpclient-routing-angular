@@ -2,11 +2,6 @@
     <h2 align="center">Todo App Using HttpClient & Routing in Angular</h2>
 </p>
 
-<div align="center">
-    <img src="./demo.gif" alt="demo" width="60%">
-</div>
-
-
 <br>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
